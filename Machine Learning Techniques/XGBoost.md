@@ -19,4 +19,6 @@ non-disclosure agreement with AnzhiCapital.
 
 **Feature Explanations**: Comparing to linear regression, machine learning technique is more like a black box which is really hard for us to interpret the correlation between features and prediction target. Here we will use SHAP as an importance evaluater to unbox that mapping relationship, noted that this importance sorting is the correlation between the value of feature and prediction of target value, the bias between the prediction and real value still exist.
 
-![SHAP Value](https://github.com/JonnyStart95/Stock_Strategies_Panel/blob/master/pics_folder/SHAP_value.png){width=50%}
+<p align="center">
+<img src="https://github.com/JonnyStart95/Stock_Strategies_Panel/blob/master/pics_folder/SHAP_value.png" alt="SHAP Value" width="500" height="600">
+</p>
