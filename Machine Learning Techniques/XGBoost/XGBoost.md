@@ -35,5 +35,5 @@ non-disclosure agreement with AnzhiCapital.
 **Alpha Return** The hedging method in A share market is extremly limited, the only future contracts we can short are IH/IF/IC/IM which correspond to those Broad-base Index 000016.SH/000300.SH/000905.SH/000852.SH. Howerver, the phenomenon of backwardation are kept all the time due to the lack of liquidity. Here we will only display the alpha return of portfolio instead of a real life hedging strategy which will take the backwardation/premium into consideration.
 
 <p align="center">
-<img src="https://github.com/JonnyStart95/Stock_Strategies_Panel/blob/master/Machine%20Learning%20Techniques/XGBoost/pics_folder/XGBoost_backtesting.png" alt="BackTesting" width="500" height="600">
+<img src="https://github.com/JonnyStart95/Stock_Strategies_Panel/blob/master/Machine%20Learning%20Techniques/XGBoost/pics_folder/XGBoost_backtesting.png" alt="BackTesting" width="1200" height="500">
 </p>
