@@ -27,9 +27,13 @@ non-disclosure agreement with AnzhiCapital.
 
 
 <p align="center">
-  <img alt="Light" src="https://github.com/JonnyStart95/Stock_Strategies_Panel/blob/master/Machine%20Learning%20Techniques/XGBoost/pics_folder/XGBoost_annulized_alpha_return.png" width="35%">
+  <img alt="Annulized alpha return" src="https://github.com/JonnyStart95/Stock_Strategies_Panel/blob/master/Machine%20Learning%20Techniques/XGBoost/pics_folder/XGBoost_annulized_alpha_return.png" width="35%">
 &nbsp; &nbsp; &nbsp; &nbsp;
-  <img alt="Dark" src="https://github.com/JonnyStart95/Stock_Strategies_Panel/blob/master/Machine%20Learning%20Techniques/XGBoost/pics_folder/XGBoost_IC.png" width="55%">
+  <img alt="IC time series" src="https://github.com/JonnyStart95/Stock_Strategies_Panel/blob/master/Machine%20Learning%20Techniques/XGBoost/pics_folder/XGBoost_IC.png" width="55%">
 </p>
 
-**Alpha Return** The hedging method in A share market is extremly limited, the only future contracts we can short are IH/IF/IC/IM which correspond to those Broad-base Index 000016.SH/000300.SH/000905.SH/000852.SH. Howerver, the phenomenon of backwardation are kept all the time due to the lack of liquidity.
+**Alpha Return** The hedging method in A share market is extremly limited, the only future contracts we can short are IH/IF/IC/IM which correspond to those Broad-base Index 000016.SH/000300.SH/000905.SH/000852.SH. Howerver, the phenomenon of backwardation are kept all the time due to the lack of liquidity. Here we will only display the alpha return of portfolio instead of a real life hedging strategy which will take the backwardation/premium into consideration.
+
+<p align="center">
+<img src="https://github.com/JonnyStart95/Stock_Strategies_Panel/blob/master/Machine%20Learning%20Techniques/XGBoost/pics_folder/XGBoost_backtesting.png" alt="BackTesting" width="500" height="600">
+</p>
